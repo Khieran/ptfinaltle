@@ -20,7 +20,7 @@ Try again later!<p>
 <hr>
 <center>
 <table border 5 bgcolor = lightgray width 50%>
-<th> <a href = "Mainpage.html"> Return To Homepage </th>
+<th> <a href = "index.php"> Return To Homepage </th>
 </table>
 </center>
 </body>

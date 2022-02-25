@@ -15,10 +15,10 @@
 <br>
 <center>
 <table border = 5 bgcolor = lightgray width = 50%>
-<th> <a href = "cae.html"> CAE </th>
-<th> <a href = "cle.html"> CLE </th>
-<th> <a href = "math.html"> Math </th>
-<th> <a href = "credits.html"> Credits </th>
+<th> <a href = "index4.php"> CAE </th>
+<th> <a href = "index5.php"> CLE </th>
+<th> <a href = "index2.php"> Math </th>
+<th> <a href = "index3.php"> Credits </th>
 </table>
 </center>
 <hr>

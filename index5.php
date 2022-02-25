@@ -107,7 +107,7 @@ that are suffering from mental health issues, for giving them support and love.<
 <hr>
 <center>
 <table border 5 bgcolor = lightgray width 50%>
-<th> <a href = "Mainpage.html"> Return To Homepage </th>
+<th> <a href = "index.php"> Return To Homepage </th>
 </table>
 </center>
 </body>
